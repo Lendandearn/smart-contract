@@ -1,8 +1,10 @@
 /**
- *Submitted for verification at Etherscan.io on 2020-10-04
+ *Submitted for verification at Etherscan.io on 2020-10-19
 */
 
-pragma solidity ^0.7.0;
+pragma solidity 0.7.0;
+
+// SPDX-License-Identifier: none
 
 contract Owned {
     modifier onlyOwner() {
@@ -61,13 +63,13 @@ contract ERC20 {
     }
 }
 
-contract Lendandearn is Owned,ERC20{
+contract LendAndEarn is Owned,ERC20{
     uint256 public maxSupply;
 
     constructor(address _owner) {
         symbol = "LED";
-        name = "Lendandearn";
-        decimals = 18;                                     // 18 Decimals are Best for Liquidity
+        name = "LendAndEarn";
+        decimals = 18;                                      // 18 Decimals are Best for Liquidity
         totalSupply = 100000000000000000000000;             // 100,000 is Total Supply ; Rest 18 Zeros are Decimals
         maxSupply   = 100000000000000000000000;             // 100,000 is Total Supply ; Rest 18 Zeros are Decimals
         owner = _owner;
