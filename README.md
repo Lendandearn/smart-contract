@@ -1,7 +1,7 @@
 # Project Name
 
 LENDANDEARN <br>
-LendAndEarn is committed to bringing blockchain agnostic into the defi ecosystem. We are providing cross-communication chain which means that multiple blockchains  such as Binance chain, Tronchain, Ethereum etc can communicate effectively on one platform.  
+LendAndEarn is committed to bringing blockchain agnostic into the defi ecosystem. We are providing cross-communication network which means that multiple blockchains  such as Binance chain, Tronchain, Ethereum etc can communicate effectively on one platform.  
 This is the long term benefit that LendAndEarn is bringing to the market by being a blockchain agnostic.
 ## Installation
 
