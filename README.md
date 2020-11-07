@@ -1,8 +1,8 @@
 # Project Name
 
 LENDANDEARN <br>
-LendAndEarn is a DeFi aggregator and a noncustodial digital asset platform with a peer-to-peer
-network for lending and earning. It’s a plugging in multiple protocol and DeFi applications in one application.
+LendAndEarn is committed to bringing blockchain agnostic into the defi ecosystem. We are providing cross-communication chain which means that multiple blockchains  such as Binance chain, Tronchain, Ethereum etc can communicate effectively on one platform.  
+This is the long term benefit that LendAndEarn is bringing to the market by being a blockchain agnostic.
 ## Installation
 
 COMING SOON
